@@ -1,7 +1,7 @@
 import React from 'react';
 import QuoteGenerator from './QuoteGenerator';
-import Show from '../assets/show.png';
-import Hide from '../assets/hide.png';
+import Show from '../../assets/show.png';
+import Hide from '../../assets/hide.png';
 
 
 class Quote extends React.Component{
